@@ -4,7 +4,7 @@
 
 #### About
 
-I am a front-end engineer, creative coder and author of [p5.capture](https://github.com/tapioca24/p5.capture). I love web technologies, generative art and hamsters 🐹  
+I am a front-end engineer, creative coder and author of [p5.capture](https://github.com/tapioca24/p5.capture). I love web technologies, generative art, and hamsters 🐹  
 I work mostly with [TypeScript](https://www.typescriptlang.org/) and develop applications in [React](https://reactjs.org/) and [Vue](https://vuejs.org/). I am especially interested in maintainable application development.
 
 #### Donation
