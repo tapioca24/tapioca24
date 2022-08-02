@@ -9,10 +9,10 @@ I work mostly with [TypeScript](https://www.typescriptlang.org/) and develop app
 
 #### Donation
 
-I am accepting donations for sustainable development. Your donation will be used to pay for my hamster's food and her happiness motivates me. Please choose from the options below. Thanks in advance!
+My is open source and always will be, even if I don't get donations. That said, I know there are people out there that may still want to donate just to show their appreciation so this is for you guys. All donations will be used for sustainable software development. Thanks in advance!
 
-- [Tezos](https://app.tezos.domains/domain/tapioca.tez)
-- [PayPal](https://paypal.me/tapioca24)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J3E5YAN)  
+[Tezos wallet](https://app.tezos.domains/domain/tapioca.tez)
 
 #### GitHub Stats
 
